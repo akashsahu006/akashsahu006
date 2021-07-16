@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Sahu</h1>
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning DSA
 
 - 👯 I’m looking to collaborate on **Github**
 
